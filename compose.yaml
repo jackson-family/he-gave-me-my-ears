@@ -1,0 +1,34 @@
+services:
+  build:
+    environment:
+      SITEURL: https://he-gave-me-my-ears.subtlecoolness.com
+    image: ghcr.io/williamjacksn/pelican:4.8.0
+    init: true
+    volumes:
+      - ./:/pelican-site
+
+  clean:
+    command:
+      - -f
+      - -r
+      - __pycache__
+      - output
+    entrypoint:
+      - /bin/rm
+    image: ghcr.io/williamjacksn/pelican:4.8.0
+    init: true
+    volumes:
+      - ./:/pelican-site
+
+  serve:
+    command:
+      - --autoreload
+      - --listen
+    environment:
+      SITEURL: https://he-gave-me-my-ears.subtlecoolness.com
+    image: ghcr.io/williamjacksn/pelican:4.8.0
+    init: true
+    ports:
+      - 8000:8000
+    volumes:
+      - ./:/pelican-site
