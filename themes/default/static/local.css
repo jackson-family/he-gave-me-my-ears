@@ -1,0 +1,11 @@
+img, video {
+	max-width: 100%;
+	height: auto;
+}
+
+blockquote {
+	border-left-color: var(--bs-body-color);
+	border-left-style: var(--bs-border-style);
+	border-left-width: var(--bs-border-width);
+	padding-left: 1rem;
+}

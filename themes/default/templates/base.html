@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/bootstrap-5.2.2.css">
+    <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/local.css">
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+</head>
+
+<body>
+
+{% set col_widths = 'col-12 col-sm-11 col-md-8 col-lg-6 col-xxl-5' %}
+
+<div class="container">
+
+    <div class="row mt-3">
+        <div class="col">
+            {% block header_content %}
+                <h1><a class="text-decoration-none" href="/">{{ SITENAME }}</a></h1>
+                <hr>
+            {% endblock %}
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="{{ col_widths }}">
+            {% block main_content %}
+                <h2>Articles</h2>
+                <ul class="list-unstyled">
+                    {% for a in articles %}
+                        <li><a href="/{{ a.url }}">{{ a.title }}</a> <small class="text-muted">{{ a.locale_date }}</small></li>
+                    {% endfor %}
+                </ul>
+            {% endblock %}
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="{{ col_widths }}">
+            <hr>
+            <p></p>
+        </div>
+    </div>
+
+    {% if DEBUG_LAYOUT %}
+    <div class="row">
+        <div class="col-12">
+            <p class="d-block d-sm-none">xs</p>
+            <p class="d-none d-sm-block d-md-none">sm</p>
+            <p class="d-none d-md-block d-lg-none">md</p>
+            <p class="d-none d-lg-block d-xl-none">lg</p>
+            <p class="d-none d-xl-block d-xxl-none">xl</p>
+            <p class="d-none d-xxl-block">xxl</p>
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+<script src="/{{ THEME_STATIC_DIR }}/bootstrap-5.2.2.bundle.js"></script>
+
+</body>
+</html>
