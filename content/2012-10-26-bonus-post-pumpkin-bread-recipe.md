@@ -33,7 +33,7 @@ using a 9 by 5-inch loaf pan, start checking for doneness five minutes early.
 * 2 cups (10 ounces) all-purpose flour
 * 1 1/2 teaspoons baking powder
 * 1/2 teaspoon baking soda
-* 1 (15-ounce) can unsweetened pumpkin puree
+* 1 (15-ounce) can unsweetened pumpkin purée
 * 1 teaspoon salt
 * 1 1/2 teaspoons ground cinnamon
 * 1/4 teaspoon ground nutmeg
@@ -53,7 +53,7 @@ using a 9 by 5-inch loaf pan, start checking for doneness five minutes early.
 2. **FOR THE BREAD:** Adjust oven rack to middle position and heat oven to 350
    degrees. Grease two 8 1/2 by 4 1/2-inch loaf pans. Whisk flour, baking
    powder, and baking soda together in bowl.
-3. Combine pumpkin puree, salt, cinnamon, nutmeg, and cloves in large saucepan
+3. Combine pumpkin purée, salt, cinnamon, nutmeg, and cloves in large saucepan
    over medium heat. Cook mixture, stirring constantly, until reduced to 1½
    cups, 6 to 8 minutes. Remove pot from heat; stir in granulated sugar, brown
    sugar, oil, and cream cheese until combined. Let mixture stand for 5 minutes.

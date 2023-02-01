@@ -22,13 +22,13 @@ but rather, one more step on the road back to hearing.
 With that background in mind, on the eve of activation, I want to record
 something that I&#x02bc;ve thought about for many years. The New Testament
 records the miracles that Jesus Christ worked during His ministry. Of special
-significance to me are the healings of the deaf and the blind. Mark 7 records
+significance to me are the healing of the deaf and the blind. Mark 7 records
 Christ&#x02bc;s healing of a deaf man with a speech impediment. The man is
 brought to Christ by his friends. The account doesn&#x02bc;t record any
 conversation between Christ and the friends, but rather, Christ takes the man,
 puts his fingers into the man&#x02bc;s ears and then touches the man&#x02bc;s
 tongue. With the simple, &ldquo;Be opened,&rdquo; the man&#x02bc;s ears are
-opened &ldquo;straightway&rdquo; and his tongue is loosed and he speaks clearly,
+opened &ldquo;straightway&rdquo; and his tongue is loosed, and he speaks clearly,
 likely for the first time in his life.
 
 John 9 records the healing of a man born blind. I&#x02bc;ve always liked this
@@ -49,7 +49,7 @@ reproduces the sounds coming at him, since he&#x02bc;s able to speak without
 impediment. The blind man&#x02bc;s brain receives the signals from his newly
 restored eyesight and immediately recognizes what it&#x02bc;s seeing, Jesus, his
 friends, the man&#x02bc;s parents, etc, all people that he&#x02bc;d never before
-been able to see. The fact that Jesus&#x02bc; miracles can overcome all of the
+been able to see. The fact that Jesus&#x02bc; miracles can overcome all the
 disadvantages of being born with a missing sense and restore them perfectly is a
 testimony to me that He is indeed the Master Healer.
 

@@ -27,7 +27,7 @@ used to plot my audiogram, to show the range of pitches and volumes that I could
 hear. The sentences were played from a recording of several different people,
 men and women, saying stuff. It was played from a recording to determine how
 well I could hear without any external cues, like context, social setting, or
-lip reading. The sentences were played up to two times, and I had to repeat back
+lip-reading. The sentences were played up to two times, and I had to repeat back
 whatever I understood. Even if it wasn&#x02bc;t the whole sentence, I could
 repeat any words or phrases that I heard. There were 20 sentences altogether.
 
@@ -38,7 +38,7 @@ best, I could tell whether it was a man or woman speaking, but nothing came
 close to being intelligible. No surprises there. The minimum criteria is 50%
 comprehension, so I came well below the standard. Amy also spent some time
 during that appointment showing us the implant equipment and explaining more
-about the surgery. William had a great time playing with all of the equipment,
+about the surgery. William had a great time playing with all the equipment,
 probably because there were all kinds of buttons and cables to look at.
 
 After determining that I was indeed deaf enough, Dr. Slater&#x02bc;s office
@@ -57,7 +57,7 @@ implanting my left ear first, so that if the implant didn&#x02bc;t work, I would
 still have my hearing in my right ear to go by. Dr. Slater indicated otherwise.
 Because my right ear had been my dominant ear for so long and the neural
 pathways to my brain were far more developed, my right ear would adapt much more
-quickly to an implant than my left ear. In a best case scenario, my right ear
+quickly to an implant than my left ear. In the best case scenario, my right ear
 could be at a 75-90% comprehension within 4-6 weeks of implantation, while my
 left ear could take up to a year to be truly proficient at recognizing sounds
 and turning them into something meaningful. That&#x02bc;s quite a steep learning

@@ -31,7 +31,7 @@ that I learned to hear.
 > and saying to Rebecca, &ldquo;I hear that!&rdquo; so that Rebecca could catch
 > on.
 
->We had been under the naïve impression that as soon as Rebecca could hear
+> We had been under the naïve impression that as soon as Rebecca could hear
 > sounds, she would suddenly learn to talk. That was also a slow process,
 > assisted by much therapy &mdash; formal and informal. If one cannot hear a
 > sound very well, it is very difficult to imitate it in speech. That is why

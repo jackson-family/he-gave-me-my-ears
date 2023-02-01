@@ -63,21 +63,21 @@ into step 2.
 > it:
 
 > 1. sound on vs. off
-> 1. Syllbable identification (single words) - given the topic
-> 1. Vowel identification (single words) - given the topic
-> 1. Consonant I.d. (multiple levels of this actually, in words) - given the topic
-> 1. Word I.d. (single words) - given the topic
-> 1. Word I.d. At the END of a sentence only &hellip; and later in middle, then beginning of a sentence - given the topic
-> 1. 1-2 word I.d. At end of a sentence, then middle, then beginning - given the topic
-> 1. Single word I.d. WITHOUT a topic given
-> 1. 1-2 word I.d. WITHOUT a topic given
-> 1. Sentence I.d. WITHOUT a topic given
+> 2. Syllable identification (single words) - given the topic
+> 3. Vowel identification (single words) - given the topic
+> 4. Consonant I.d. (multiple levels of this actually, in words) - given the topic
+> 5. Word I.d. (single words) - given the topic
+> 6. Word I.d. At the END of a sentence only &hellip; and later in middle, then beginning of a sentence - given the topic
+> 7. 1-2 word I.d. At end of a sentence, then middle, then beginning - given the topic
+> 8. Single word I.d. WITHOUT a topic given
+> 9. 1-2 word I.d. WITHOUT a topic given
+> 10. Sentence I.d. WITHOUT a topic given
 
 Interesting stuff, no? 
 
 -----
 
-My Primary class was happy to see me back. (I teach three 9 and 10-year olds
+My Primary class was happy to see me back. (I teach three 9 and 10-year-olds
 each week, kind of like junior Sunday School.) One of the girls asked me how my
 ear was doing and seemed concerned when I told her that I still couldn&#x02bc;t
 hear very well out of my ear. I wonder if she thinks that my surgery

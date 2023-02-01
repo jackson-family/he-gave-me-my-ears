@@ -26,7 +26,7 @@ what I remembered (thank you, neural networks!) with what I was then hearing.
 The video makes it look far more comprehensive than it was. While I don&#x02bc;t
 discount the miracle of being able to perceive anything at all, I also
 don&#x02bc;t want to give the impression that the implant somehow flipped the
-&ldquo;Hearing: On&rdquo; switch in my brain and now I am ready to go to the
+&ldquo;Hearing: On&rdquo; switch in my brain, and now I am ready to go to the
 opera.
 
 The challenge from here on out will be to replicate the first day&#x02bc;s

@@ -24,7 +24,7 @@ We were both surprised when we pulled up to Westlake Medical Center. It appeared
 to be a large compound of medical offices, with no obvious hospital building.
 After driving around for a few minutes, we noticed that one of the offices had
 an &ldquo;Admissions&rdquo; sign over the entrance. But it didn&#x02bc;t look
-much like a hospital. William snagged a parking spot right in front and we
+much like a hospital. William snagged a parking spot right in front, and we
 headed in to check it out.
 
 We found it! It was definitely the smallest hospital that I&#x02bc;ve ever been
@@ -34,7 +34,7 @@ two in the city that will do cochlear implant surgery, so hopefully that
 explains why we drove by at least four other hospitals on the way there. Check
 in was no big deal. $100 co-pay and a signature on a release form. They asked if
 I had a DNR and/or living will; I don&#x02bc;t. But I didn&#x02bc;t think that
-either of those documents would be needed for this surgery. I'&#x02bc;l put it
+either of those documents would be needed for this surgery. I'&#x02bc;ll put it
 on my list of things to get sorted out soon.
 
 Then we went to the lobby to wait. There were several other people there waiting
@@ -47,7 +47,7 @@ find out that conversations are not as interesting as I imagine them to be.
 
 Soon, we were escorted back to the pre-op room where I changed into a purple
 gown, purple socks, and hospital-issue underwear. Ooh la la. We were joking
-about the socks being a $65,000 pair of socks, a la &ldquo;My wife got a
+about the socks being a $65,000 pair of socks, à la &ldquo;My wife got a
 cochlear implant, and all I got was this lousy pair of socks.&rdquo; We were in
 pre-op for at least an hour, with various staff coming to check on us. A nurse
 got me hooked up to an IV, which hurt a lot more than I remember it hurting with

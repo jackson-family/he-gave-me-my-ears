@@ -39,7 +39,7 @@ For that I am most thankful.
 
 \* On Saturday night&#x02bc;s session of stake conference, without any warning,
 I was picked out of an audience of hundreds to share a testimony. First of all,
-I was glad that I&#x02bc;d put some make up on. Second of all, I was glad that I
+I was glad that I&#x02bc;d put some makeup on. Second of all, I was glad that I
 had some things of a spiritual nature recorded in my blog that I could cobble
 together into a semi-coherent message. So, I talked about the thing that has
 consumed my thoughts of late, my cochlear implant. And by the time I finished, I

@@ -3,7 +3,7 @@ urlname: surgery-part-2
 date: 2012-10-17T17:55
 
 Someone is patting my hands. I open my eyes with some effort and see a blond
-nurse smiling at me with some concern. She doesn&#x02bc;t look like Jesus so I
+nurse smiling at me with some concern. She doesn&#x02bc;t look like Jesus, so I
 figure that I&#x02bc;ve pulled through the surgery just fine. She asks how
 I&#x02bc;m feeling. Very polite, right? I tell her that I&#x02bc;m feeling
 dizzy, slurring my words badly. The room is spinning, and I&#x02bc;m having some

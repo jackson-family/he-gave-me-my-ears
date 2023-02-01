@@ -60,7 +60,7 @@ and parents whose lives were changed for the better because the child got a
 cochlear implant. It sounded miraculous and hopeful.
 
 As I read through everything, I began to weep. I wept because when I was a
-child, my parents did not have the luxury of cochlear implant technology and so
+child, my parents did not have the luxury of cochlear implant technology, and so
 they had to chart an alternate course for me to find my way in the world of
 hearing. I wept at the thought of living in a time when such technology could
 touch the lives of so many hearing impaired people. I wept because it sounded

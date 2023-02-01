@@ -19,7 +19,7 @@ unrelated, I can&#x02bc;t help but call attention to the fact that a cochlear
 implant is a little thing that can make a big difference.
 
 While Rebecca and I were waiting before going in to pre-op, I told her that I
-would have brought my computer instead of a book had I known there was free WiFi
+would have brought my computer instead of a book had I known there was free Wi-Fi
 at the hospital.
 
 We were both in high spirits. We were confident that everything would go
@@ -33,7 +33,7 @@ accidentally post any on the Internet.
 
 Rebecca mentioned I was telling stories about when I was a Boy Scout, but I
 don&#x02bc;t recall what prompted those. Eventually the nurses came to roll
-Rebecca away so I gave her one more kiss and found my way back to the lobby.
+Rebecca away, so I gave her one more kiss and found my way back to the lobby.
 
 For about an hour and a half I divided my time between reading _The Tipping
 Point_, snacking on peanut M&amp;M&#x02bc;s Rebecca&#x02bc;s mother kindly gave
@@ -61,7 +61,7 @@ while Rebecca learns to hear with the implant. There was some fear of not really
 knowing what the next few days and months would hold.
 
 But mostly I was happy, and proud of Rebecca for having the courage to take a
-step into the silence so she can eventually hear better.
+step into the silence, so she can eventually hear better.
 
 Dr. Slater told me a nurse would come get me in about thirty minutes when
 Rebecca started to wake up, so I waited some more. I eventually got to go back

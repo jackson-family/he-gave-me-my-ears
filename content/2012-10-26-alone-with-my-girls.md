@@ -15,12 +15,12 @@ I had about three hours between the time she left and the time William got home
 from work. I think it&#x02bc;s the first time that I&#x02bc;ve been alone with
 both girls in over two weeks, and certainly the first time that I&#x02bc;ve been
 alone with them with my hearing being bad in my left ear and terrible in my
-right. Molly&#x02bc;s vocabulary is limited to babyspeak and cooing, so
+right. Molly&#x02bc;s vocabulary is limited to baby-speak and cooing, so
 she&#x02bc;s pretty easy to understand. If she wants something, she yells
 unintelligibly. If she&#x02bc;s happy, she goes around babbling, &ldquo;Day day
 day day day.&rdquo; Sometimes she growls. It is all really cute.
 
-My three-year old Emily is a different story. She started speaking in sentences
+My three-year-old Emily is a different story. She started speaking in sentences
 at 18 months and pretty much has not stopped talking since. She always has
 something to say. Always. She&#x02bc;s also currently in the throes of the
 &ldquo;Why?&rdquo; stage. It&#x02bc;s endearing because she&#x02bc;s so curious

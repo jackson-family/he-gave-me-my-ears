@@ -16,7 +16,7 @@ tomorrow at 9. Here&#x02bc;s what she said that we can expect.
 > listen to EXTREMELY soft beeps at different pitches. This will help me set the
 > very softest level for your first set of programs. Then we&#x02bc;ll turn on
 > the sound, adjust it until it&#x02bc;s comfortable &hellip; all while you are
-> slowly adjusting to the new sound of your implant. It will takes us another
+> slowly adjusting to the new sound of your implant. It will take us another
 > 45-60 minutes to review ALL of the equipment that you&#x02bc;ll be using, as
 > well as appropriate auditory rehab exercises to do at home.
 
