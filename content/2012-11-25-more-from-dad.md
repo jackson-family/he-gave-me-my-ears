@@ -1,5 +1,5 @@
 title: More from Dad! (Extra Help from Technology)
-urlname: more-from-dad
+urlname: more-from-dad-extra-help-from-technology
 date: 2012-11-25T21:26
 
 I&#x02bc;ve been digging through my emails to find this. My dad had more to say, and I want to make sure that he gets to
