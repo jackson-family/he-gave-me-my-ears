@@ -29,6 +29,6 @@ services:
     image: ghcr.io/williamjacksn/pelican:4.9.1
     init: true
     ports:
-      - 8000:8000
+      - 8080:8000
     volumes:
       - ./:/pelican-site
