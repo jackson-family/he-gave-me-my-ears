@@ -12,6 +12,7 @@ services:
       - -f
       - -r
       - __pycache__
+      - cache
       - output
     entrypoint:
       - /bin/rm
