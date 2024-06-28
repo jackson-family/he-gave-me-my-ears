@@ -9,7 +9,7 @@ computer settings and me trying to look like I hear something, anything at all, 
 &ldquo;magic moment&rdquo; where I realize that the implant works is easier to recognize, since I&#x02bc;ve already been
 through this once.
 
-[a]: {filename}/2012-10-24-what-i-saw-at-activation-appointment.md
+[a]: {filename}/published/2012/10/2012-10-24-what-i-saw-at-activation-appointment.md
 
 My left ear was implanted last week. Since this is my worse ear, I&#x02bc;m told that my progress along the road to
 hearing has the potential to be slower and more painstaking. Given how little I could hear with my left ear to begin

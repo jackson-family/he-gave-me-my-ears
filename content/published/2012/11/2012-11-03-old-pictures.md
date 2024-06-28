@@ -7,7 +7,7 @@ me wearing [my first hearing aids][a]. Here&#x02bc;s one, from my brother&#x02bc
 I&#x02bc;m wearing the blue halter that my mom sewed to hold my hearing aids. She made four to match my different
 outfits: blue, red, white, and yellow. Very fashionable!
 
-[a]: {filename}/2012-10-22-a-parents-perspective.md
+[a]: {filename}/published/2012/10/2012-10-22-a-parents-perspective.md
 
 ![Rebecca with her brother][b]
 

@@ -22,7 +22,7 @@ test that Amy did at the very beginning of my [evaluation process][a]. I think. 
 sentences and trying to repeat them as best as I can. And if I can get better than 25% comprehension, we&#x02bc;ll know
 that the implant has worked at least a little bit.
 
-[a]: {filename}/2012-10-16-evaluation-process.md
+[a]: {filename}/published/2012/10/2012-10-16-evaluation-process.md
 
 On a slightly related note, I still haven&#x02bc;t tried to make a phone call. Hearing aids have a nice feature called a
 t-coil that blocks out background noise during a phone call. I think that my implant&#x02bc;s processor has something

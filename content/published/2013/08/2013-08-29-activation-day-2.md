@@ -6,7 +6,7 @@ author: William Jackson
 I accompanied Rebecca to her activation appointment last week and recorded some video of her first few minutes with her
 left implant on. I did not get as much footage as [last time][a], but it&#x02bc;s something:
 
-[a]: {filename}/2012-10-24-what-i-saw-at-activation-appointment.md
+[a]: {filename}/published/2012/10/2012-10-24-what-i-saw-at-activation-appointment.md
 
 <video controls preload="metadata"><source src="{static}/images/2013-08-21-activation.mp4"></video>
 

@@ -34,8 +34,8 @@ we had gone through the list several times, there was only one word out of 16 th
 up: &ldquo;apple.&rdquo; The day that I can actually understand &ldquo;apple&rdquo; will be a major milestone because
 [it continues to trip me up][c]. Another problem for my linguist friends to consider!
 
-[b]: {filename}/2012-11-04-a-lesson-from-molly.md
-[c]: {filename}/2012-10-30-fruits.md
+[b]: {filename}/published/2012/11/2012-11-04-a-lesson-from-molly.md
+[c]: {filename}/published/2012/10/2012-10-30-fruits.md
 
 The sound that has started to be an auditory guidepost for me is &ldquo;s&rdquo;. I&#x02bc;ve never been able to hear
 the &ldquo;s&rdquo; sound in words. Now when I do my listening practice, I can hear it so clearly in words, even when

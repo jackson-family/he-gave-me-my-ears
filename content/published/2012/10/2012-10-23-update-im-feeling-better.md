@@ -19,7 +19,7 @@ damaged, that would&#x02bc;ve been the most tragic thing ever to happen to me,
 even more than being born deaf. I cannot even imagine never being able to taste
 French fries dipped in honey mustard again.)
 
-[a]: {filename}/2012-10-18-post-op-appointment.md
+[a]: {filename}/published/2012/10/2012-10-18-post-op-appointment.md
 
 I still have a bruise under my right eye that mostly just looks like I got
 carried away with the green eyeshadow. Riding in the car is still giving me a

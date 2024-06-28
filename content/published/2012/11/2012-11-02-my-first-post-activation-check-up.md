@@ -45,7 +45,7 @@ right on the first try, but there were no words that I couldn&#x02bc;t eventuall
 Amy even said a few times that she was impressed with how quickly I was able to discern words, after having my new
 programs turned on for just a few minutes.
 
-[a]: {filename}/2012-10-30-fruits.md
+[a]: {filename}/published/2012/10/2012-10-30-fruits.md
 
 I would say that appointment was a huge success. I&#x02bc;m actually excited to do my homework now that everything
 sounds louder and clearer. Yay!

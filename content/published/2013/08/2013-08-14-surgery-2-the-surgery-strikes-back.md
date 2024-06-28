@@ -19,7 +19,7 @@ I did not bring a book today, but I brought my computer and watched an episode o
 some Peanut M&amp;M&#x02bc;s [for old time&#x02bc;s sake][b], so I snacked on those.
 
 [a]: https://en.wikipedia.org/wiki/The_Prisoner
-[b]: {filename}/2012-10-18-day-0-williams-perspective.md
+[b]: {filename}/published/2012/10/2012-10-18-day-0-williams-perspective.md
 
 When Dr. Slater came out to report on the procedure, I had my headphones in. I think he may have called my name a few
 times before I realized he was there. He told me that everything went well, and that is it. I guess he assumed I

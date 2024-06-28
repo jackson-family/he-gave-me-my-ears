@@ -7,7 +7,7 @@ astonished and touched by the outpouring of encouragement from my blog readers.
 It warms my heart to know that so many people are reading this story and
 cheering for me on the way. For that, I thank you.
 
-[a]: {filename}/2012-10-24-what-i-saw-at-activation-appointment.md
+[a]: {filename}/published/2012/10/2012-10-24-what-i-saw-at-activation-appointment.md
 
 That&#x02bc;s why it makes a little hard for me to rain on everyone&#x02bc;s
 parade here. But for the sake of keeping this real and after having some time to

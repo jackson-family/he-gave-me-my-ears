@@ -14,7 +14,7 @@ Next, Rebecca moved to the sound-proof booth to evaluate her hearing with the im
 this evaluation process][a] before she got the implant. The purpose of the evaluation at this appointment was to measure
 how much better her hearing is now compared to her hearing aid several months ago.
 
-[a]: {filename}/2012-10-16-evaluation-process.md
+[a]: {filename}/published/2012/10/2012-10-16-evaluation-process.md
 
 The evaluation for her right ear with her hearing aid (pre-implant) was about 25% comprehension. Today, with her
 implant, she scored more than 40% comprehension. In other words, she is hearing almost twice as well with the implant

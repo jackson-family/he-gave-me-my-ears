@@ -29,8 +29,8 @@ follow-up appointment][b]. In that post, he mentions that Amy&#x02bc;s goal for 
 year after surgery. This is something that I&#x02bc;d forgotten all about. But looky at me, six months after surgery,
 and I&#x02bc;ve already met that goal!)
 
-[a]: {filename}/2012-10-16-evaluation-process.md
-[b]: {filename}/2013-01-18-three-months-later.md
+[a]: {filename}/published/2012/10/2012-10-16-evaluation-process.md
+[b]: {filename}/published/2013/01/2013-01-18-three-months-later.md
 
 The last thing we talked about is when I can get an implant in my left ear. Yes, after all the ups and downs of
 recovering from my first surgery, I am seriously thinking about getting my left ear implanted. A large part of that

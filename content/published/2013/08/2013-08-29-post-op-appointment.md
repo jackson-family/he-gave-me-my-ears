@@ -23,7 +23,7 @@ the mild paralysis and lost sense of taste. (Incidentally, I&#x02bc;m not sure t
 come back on the right side of my tongue, but it&#x02bc;s much better than it was.) He was very nonchalant about this,
 as if he goes around cutting nerves all the time (which he probably does, actually.)
 
-[a]: {filename}/2012-10-18-post-op-appointment.md
+[a]: {filename}/published/2012/10/2012-10-18-post-op-appointment.md
 
 The most exciting part about the appointment is that Dr. Slater asked his nurse to remove the surgical glue behind my
 ear. She worked for a bit but couldn&#x02bc;t get it off and said that I would have to wait a little longer and then try
