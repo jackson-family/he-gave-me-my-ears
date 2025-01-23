@@ -2,7 +2,7 @@ services:
   build:
     environment:
       SITEURL: https://he-gave-me-my-ears.subtlecoolness.com
-    image: ghcr.io/williamjacksn/pelican:4.10.1
+    image: ghcr.io/williamjacksn/pelican:4.11.0
     init: true
     volumes:
       - ./:/pelican-site
@@ -16,7 +16,7 @@ services:
       - output
     entrypoint:
       - /bin/rm
-    image: ghcr.io/williamjacksn/pelican:4.10.1
+    image: ghcr.io/williamjacksn/pelican:4.11.0
     init: true
     volumes:
       - ./:/pelican-site
@@ -27,7 +27,7 @@ services:
       - --listen
     environment:
       SITEURL: https://he-gave-me-my-ears.subtlecoolness.com
-    image: ghcr.io/williamjacksn/pelican:4.10.1
+    image: ghcr.io/williamjacksn/pelican:4.11.0
     init: true
     ports:
       - 8080:8000
