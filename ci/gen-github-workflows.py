@@ -16,7 +16,11 @@ github_pages = {
             "steps": [
                 {"name": "Check out repository", "uses": "actions/checkout@v4"},
                 {"name": "Configure Pages", "uses": "actions/configure-pages@v5"},
-                {"name": "Build site", "run": "sh ci/build.sh"},
+                {
+                    "name": "Build site",
+                    "run": "sh ci/build.sh",
+                    "env": {"SITEURL": "https://he-gave-me-my-ears.subtlecoolness.com"},
+                },
                 {
                     "name": "Upload artifact",
                     "uses": "actions/upload-pages-artifact@v3",

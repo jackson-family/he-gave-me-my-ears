@@ -20,6 +20,9 @@
           "uses": "actions/configure-pages@v5"
         },
         {
+          "env": {
+            "SITEURL": "https://he-gave-me-my-ears.subtlecoolness.com"
+          },
           "name": "Build site",
           "run": "sh ci/build.sh"
         },
