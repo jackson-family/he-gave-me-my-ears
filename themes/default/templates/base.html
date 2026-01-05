@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/bootstrap-5.2.2.css">
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@{{ BOOTSTRAP_VERSION }}/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/local.css">
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
 </head>
@@ -30,7 +31,10 @@
                 <h2>Articles</h2>
                 <ul class="list-unstyled">
                     {% for a in articles %}
-                        <li><a href="/{{ a.url }}">{{ a.title }}</a> <small class="text-muted">{{ a.locale_date }}</small></li>
+                        <li>
+                            <a href="/{{ a.url }}">{{ a.title }}</a>
+                            <small class="text-muted">{{ a.locale_date }}</small>
+                        </li>
                     {% endfor %}
                 </ul>
             {% endblock %}
@@ -45,21 +49,19 @@
     </div>
 
     {% if DEBUG_LAYOUT %}
-    <div class="row">
-        <div class="col-12">
-            <p class="d-block d-sm-none">xs</p>
-            <p class="d-none d-sm-block d-md-none">sm</p>
-            <p class="d-none d-md-block d-lg-none">md</p>
-            <p class="d-none d-lg-block d-xl-none">lg</p>
-            <p class="d-none d-xl-block d-xxl-none">xl</p>
-            <p class="d-none d-xxl-block">xxl</p>
+        <div class="row">
+            <div class="col-12">
+                <p class="d-block d-sm-none">xs</p>
+                <p class="d-none d-sm-block d-md-none">sm</p>
+                <p class="d-none d-md-block d-lg-none">md</p>
+                <p class="d-none d-lg-block d-xl-none">lg</p>
+                <p class="d-none d-xl-block d-xxl-none">xl</p>
+                <p class="d-none d-xxl-block">xxl</p>
+            </div>
         </div>
-    </div>
     {% endif %}
 
 </div>
-
-<script src="/{{ THEME_STATIC_DIR }}/bootstrap-5.2.2.bundle.js"></script>
 
 </body>
 </html>

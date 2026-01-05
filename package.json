@@ -1,0 +1,9 @@
+{
+  "name": "he-gave-me-my-ears.subtlecoolness.com",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "5.2.2"
+  }
+}
