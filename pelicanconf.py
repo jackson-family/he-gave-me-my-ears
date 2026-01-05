@@ -5,7 +5,7 @@ import pathlib
 package_json = json.loads(pathlib.Path("package.json").read_text())
 BOOTSTRAP_VERSION = package_json.get("dependencies").get("bootstrap")
 
-SITEURL = os.getenv("SITEURL")
+SITEURL = os.getenv("SITEURL", "https://he-gave-me-my-ears.subtlecoolness.com")
 
 ARCHIVES_SAVE_AS = ""
 ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{urlname}.html"
@@ -15,7 +15,6 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
-CACHE_CONTENT = True
 CACHE_PATH = "cache"
 CATEGORIES_SAVE_AS = ""
 CATEGORY_FEED_ATOM = None
@@ -28,6 +27,7 @@ DEFAULT_PAGINATION = False
 DELETE_OUTPUT_DIRECTORY = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
+EXTRA_PATH_METADATA = {"images/gitignore.txt": {"path": ".gitignore"}}
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 FEED_DOMAIN = SITEURL
 GZIP_CACHE = True
