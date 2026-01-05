@@ -1,11 +1,10 @@
 import json
-import os
 import pathlib
 
 package_json = json.loads(pathlib.Path("package.json").read_text())
 BOOTSTRAP_VERSION = package_json.get("dependencies").get("bootstrap")
 
-SITEURL = os.getenv("SITEURL", "https://he-gave-me-my-ears.subtlecoolness.com")
+SITEURL = "https://he-gave-me-my-ears.subtlecoolness.com"
 
 ARCHIVES_SAVE_AS = ""
 ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{urlname}.html"
