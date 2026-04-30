@@ -2,6 +2,7 @@ title: Spiritual Ears
 urlname: spiritual-ears
 status: draft
 date: 2013-01-13 21:24
+category: misc
 
 This is an analogy that has been rolling around in my head for a while, and I think that I need to write it down and
 kind of develop it.

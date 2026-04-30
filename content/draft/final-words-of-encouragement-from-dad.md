@@ -3,6 +3,7 @@ urlname: final-words-of-encouragement-from-dad
 status: draft
 date: 2019-01-09 13:30
 author: Charles A
+category: misc
 
 Well, Rebecca has endured &mdash; and largely overcome &mdash; all of the effects of hearing impairment for her whole
 life. Her mother and I have prayed every day for her hearing. So maybe the cochlear implants will be an answer to many

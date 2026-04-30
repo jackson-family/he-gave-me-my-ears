@@ -2,6 +2,7 @@ title: Paved with Love
 urlname: paved-with-love
 status: draft
 date: 2012-11-11 22:30
+category: misc
 
 I&#x02bc;ve been writing about my road back to hearing, and I keep thinking about how apt a metaphor that really is.
 When I started on this road, I didn&#x02bc;t know where it would end. I still don&#x02bc;t. But what I do know is that
